@@ -1,0 +1,6 @@
+__pycache__/
+*.txt
+*.png
+*.pth.tar
+*/__pycache__/
+.idea/
