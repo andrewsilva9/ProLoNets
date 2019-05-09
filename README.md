@@ -1,4 +1,4 @@
-# ProLoNetICML
+# ProLoNets
 
 This project houses all of the code for **ProLoNets: Neural-encoding Human Experts' Domain Knowledge to Warm Start Reinforcement Learning**. 
 
